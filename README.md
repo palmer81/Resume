@@ -3,7 +3,7 @@
 
 <div style="font-weight:bold;">Career Focus</div>
 <ul style="list-style-type: none;">
-<li>To obtain freelance wrok creating a web site with bootstrap features for commmerce and description of products/company</li>
+<li>To obtain freelance work creating a web site with bootstrap features for commmerce and description of products/company</li>
 </ul>
 
 <div style="font-weight:bold;">Computer Experience</div>
