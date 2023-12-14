@@ -3,9 +3,7 @@
 
 <div style="font-weight:bold;">Career Focus</div>
 <ul style="list-style-type: none;">
-<li>To obtain a Sales position with Home Depot within the blind and rug  
-department that offers potential for an excellent career in management and home
-improvement</li>
+<li>To obtain freelance wrok creating a web site with bootstrap features for commmerce and description of products/company</li>
 </ul>
 
 <div style="font-weight:bold;">Computer Experience</div>
